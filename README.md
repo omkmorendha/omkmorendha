@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Om Morendha</h1>
+<h1 align="center">Helloooo 👋, I'm Om Morendha</h1>
+![Image](https://media.tenor.com/lvLaG5hPCncAAAAC/data-analysis.gif)
 <h3 align="center">A Passionate Machine Learning and Data Science enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkmorendha" alt="omkmorendha" /></a> </p>
+<p align="left"> </p>
 
+- Currently pursuing multiple projects in Data Science and Machine Learning.
+- Proficient in NLP and Computer Vision applications.
+- Generative AI and prompt engineering expert
 - 📫 How to reach me **omkmorendha@gmail.com**
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkmorendha" alt="omkmorendha" /></a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
